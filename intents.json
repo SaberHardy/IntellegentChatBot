@@ -1,0 +1,22 @@
+{"intents": [
+  {
+    "tag": "greetings",
+    "patterns": ["Hello!","Hey","Hi","Greetings","What's up!","How is it going?","Are you okay?"],
+    "responses": ["Hello!", "Hey","What can i do for you?", "how can i help You?"]
+  },
+  {
+    "tag": "goodbye",
+    "patterns": ["Hello!","Hey","Hi","Greetings","What's up!","How is it going?","Are you okay?"],
+    "responses":["sad to see you go :(","Talk To you later","GoodBye","have a great day!"]
+  },
+  {
+    "tag": "age",
+    "patterns": ["how old are you?","how old is Saber?","What is your age?","how old","age?"],
+    "responses": ["My Owner Saber is 25 years old","25 years!"]
+  },
+  {
+    "tag": "name",
+    "patterns": ["what is your name?","What should i call you?","who are you?"],
+    "responses": ["you can call me Hardy","My name is Hardy","I'm Hardy the assistant of Saber"]
+  }
+]}
